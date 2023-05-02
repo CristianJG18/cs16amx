@@ -1,0 +1,9 @@
+----------------------------------------------
+CRASH: Sun Feb 27 21:50:56 CET 2022
+Start Line: ./hlds_linux -game cstrike +port 27017 +maxplayers 32 +map de_dust
+----------------------------------------------
+CRASH: Sun Feb 27 22:24:50 CET 2022
+Start Line: ./hlds_linux -game cstrike +port 27017 +maxplayers 32 +map de_dust
+----------------------------------------------
+CRASH: Sun Feb 27 22:25:04 CET 2022
+Start Line: ./hlds_linux -game cstrike +port 27017 +maxplayers 32 +map de_dust
